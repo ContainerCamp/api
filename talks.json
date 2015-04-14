@@ -1,0 +1,74 @@
+[
+  {
+    "speaker": "Bryan Cantrill",
+    "talk": "Building and scaling container driven cloud infrastructure"
+  },
+  {
+    "speaker": "Joe Brockmeier",
+    "talk": "Introduction to Atomic: tailoring a trusted OS for containers"
+  },
+  {
+    "speaker": "Andrea Luzzardi & Victor Vieux",
+    "talk": "Introduction to swarm: a docker native clustering system"
+  },
+  {
+    "speaker": "Luke Bond",
+    "talk": "How to build a Docker PaaS: a from-the-trenches case study of multi-host Docker networking"
+  },
+  {
+    "speaker": "Luke Marsden",
+    "talk": "Powerstrip: prototype Docker extensions"
+  },
+  {
+    "speaker": "Tim Hockin",
+    "talk": "Container clusters with Kubernetes"
+  },
+  {
+    "speaker": "Brandon Philips",
+    "talk": "Rocket and the need for app container specification"
+  },
+  {
+    "speaker": "Ross Kukulinski",
+    "talk": "Building Microservices with CoreOS and etcd"
+  },
+  {
+    "speaker": "Khash Sajadi",
+    "talk": "Rolling out Docker to production on 3000 servers"
+  },
+  {
+    "speaker": "Bridget Kromhout",
+    "talk": "Lights, camera, Docker: streaming video at DramaFever"
+  },
+  {
+    "speaker": "Ben Firshman",
+    "talk": "More than just development environments"
+  },
+  {
+    "speaker": "John Wetherill",
+    "talk": "Containers are not enough"
+  },
+  {
+    "speaker": "Jessie Frazelle",
+    "talk": "Willy wonka of containers"
+  },
+  {
+    "speaker": "Valentin Chernozemski",
+    "talk": "KYUP",
+    "lightning": true
+  },
+  {
+    "speaker": "Spanky (Tom Kapanka)",
+    "talk": "Crate.io",
+    "lightning": true
+  },
+  {
+    "speaker": "Dave Getzler",
+    "Talk": "Rancher Labs",
+    "lightning": true
+  },
+  {
+    "speaker": "Jason Nerothin",
+    "talk": "Gigaspaces",
+    "lightning": true
+  }
+]

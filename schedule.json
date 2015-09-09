@@ -1,5 +1,16 @@
 [
   {
+    "name": "Registration & Continental Breakfast",
+    "description": "Registration will begin at 8:45am. Please arrive promptly for opening announcements at 9:30am.",
+    "startTime": "8:45",
+    "endTime": "9:30"
+  },
+  {
+    "name": "Welcome to Container Camp",
+    "startTime": "9:30",
+    "endTime": "9:40"
+  },
+  {
     "name": "Bryan Cantrill",
     "twitter": "bcantrill",
     "talk": "Towards a Containerized Future",
@@ -20,6 +31,11 @@
     "img": "shannon-williams.jpg",
     "startTime": "10:05",
     "endTime": "10:30"
+  },
+  {
+    "name": "Coffee Break",
+    "startTime": "10:30",
+    "endTime": "11:00"
   },
   {
     "name": "Mandy Waite",
@@ -55,6 +71,11 @@
     "endTime": "12:15"
   },
   {
+    "name": "Sysdig Lunch and Lightning Talks (1pm)",
+    "startTime": "12:15",
+    "endTime": "13:45"
+  },
+  {
     "name": "Arjan Schaaf",
     "title": "DevOps Architect at [Luminis Technologies](http://luminis-technologies.com/)",
     "talk": "Docker network performance in the public cloud",
@@ -88,6 +109,11 @@
     "endTime": "15:00"
   },
   {
+    "name": "Coffee Break",
+    "startTime": "15:00",
+    "endTime": "15:30"
+  },
+  {
     "name": "Ben Hall",
     "title": "Founder at [Ocelot Uproar](https://twitter.com/ocelotuproar)",
     "talk": "Lessons from running potentially malicious code inside containers",
@@ -110,6 +136,11 @@
     "endTime": "16:20"
   },
   {
+    "name": "Coffee Break",
+    "startTime": "16:20",
+    "endTime": "16:50"
+  },
+  {
     "name": "Loris Degioanni",
     "twitter": "lorisdegio",
     "title": "CEO at [Sysdig](http://www.sysdig.org/)",
@@ -130,5 +161,17 @@
     "img": "juan-benet.jpg",
     "startTime": "17:15",
     "endTime": "17:40"
+  },
+  {
+    "name": "Thank You",
+    "startTime": "17:40",
+    "endTime": "17:45",
+    "hideTime": "true"
+  },
+  {
+    "name": "After Party",
+    "startTime": "17:45",
+    "endTime": "21:00",
+    "hideTime": "true"
   }
 ]
